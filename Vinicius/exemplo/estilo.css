@@ -1,0 +1,50 @@
+h1{
+    text-align:center;
+    font-size: 60px;
+    color: red ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr{
+    width: 50%;
+    height: 10px;
+    background-color: blue;
+}
+
+.paragrafo {
+    
+    width:50%;
+    text-align: justify;
+    display: block;
+    margin: auto;
+
+
+}
+img{
+    width: 600px;
+}
+
+#caixa01{
+    width: px;
+    margin: auto;
+    
+
+}
+#videozinho{
+    width: 50%;
+    display: block;
+    margin: auto;
+
+}
+#letreiro{
+    display:block;
+    margin:auto;
+    font-size:20px;
+    font-weight: bold;
+    color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:linear-gradient(rgb(68, 126, 68), rgb(153, 153, 73));
+}

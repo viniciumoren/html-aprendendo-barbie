@@ -1,0 +1,59 @@
+@font-face{
+    font-family: barbie;
+    src: url("Barbie.otf");
+}
+
+h1{
+    text-align: center;
+    font-size: 80px;
+    color:rgb(248, 0, 174);
+    font-family: barbie;
+    
+}
+
+hr{
+    border-color: rgb(223, 4, 223);
+    border-width: 12px;
+    width: 55%;
+    background-color: pink;   
+}
+
+.paragrafo {
+    
+    width:55%;
+    text-align: justify;
+    display: block;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+img{
+    width: 350px;
+    height: 250px
+}
+
+#caixa01{
+    width: 720px;
+    display: block;
+    margin: auto;
+}
+
+#video01{
+    width: 55%;
+    display:block;
+    margin: auto;
+}
+
+#letreiro{
+    display:block;
+    margin:auto;
+    font-size:20px;
+    font-weight: bold;
+    color: rgb(255, 0, 170);
+    font-family: cursive;
+}
+body {
+    background: url(/images/giphy2.gif);
+    background-size: cover;
+}
